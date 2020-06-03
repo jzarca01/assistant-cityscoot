@@ -14,9 +14,9 @@ Ensuite, pour ajouter ce plugin :
   
 ## Configuration
 
-Quatre paramètres sont obligatoires : `email` et `password`. Ils correspondent à vos identifiants [Cityscoot](https://www.cityscoot.eu). et "latitude" et "longitude"
+Quatre paramètres sont obligatoires : `email` et `password`. Ils correspondent à vos identifiants [Cityscoot](https://www.cityscoot.eu). et `latitude` et `longitude`
 
-Vous pouvez egalement parametrer "radius" le rayon de recherche, par défault il est à 250m
+Vous pouvez egalement parametrer `radius le rayon de recherche, par défault il est à 250m
 
 ## Utilisation
 
