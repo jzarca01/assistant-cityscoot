@@ -23,4 +23,4 @@ Vous pouvez egalement parametrer "radius" le rayon de recherche, par défault il
 
 Une applet a été créée :
 
-- [Cherche un cityscoot dans x minutes](https://ifttt.com/applets/EiGjfApN-assistant-plugins-ajoute-les-promos-a-ma-carte-franprix) --> https://ifttt.com/applets/EiGjfApN-assistant-plugins-ajoute-les-promos-a-ma-carte-franprix
+- [Cherche un cityscoot dans x minutes](https://ifttt.com/applets/PYvVbJnN-assistant-plugins-cherche-un-cityscoot) --> https://ifttt.com/applets/PYvVbJnN-assistant-plugins-cherche-un-cityscoot
