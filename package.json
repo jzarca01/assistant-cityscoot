@@ -1,0 +1,9 @@
+{
+  "name": "assistant-cityscoot",
+  "version": "O.0.1",
+  "description": "Un plugin Cityscoot pour assistant-plugins",
+  "author": "Jérémie Zarca <jeremie.zarca@gmail.com>",
+  "main": "index.js",
+  "repository": "https://github.com/jzarca01/assistant-cityscoot/",
+  "license": "MIT"
+}
