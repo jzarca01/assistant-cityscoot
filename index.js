@@ -1,1 +1,1 @@
-module.exports = require('./lib/assistant-cityscoot')
+module.exports = require("./lib/assistant-cityscoot");
